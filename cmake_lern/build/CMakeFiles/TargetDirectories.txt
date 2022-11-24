@@ -1,0 +1,6 @@
+/root/lernning_file/cmake_lern/build/CMakeFiles/rebuild_cache.dir
+/root/lernning_file/cmake_lern/build/CMakeFiles/len_cmake.dir
+/root/lernning_file/cmake_lern/build/CMakeFiles/edit_cache.dir
+/root/lernning_file/cmake_lern/build/src/CMakeFiles/rebuild_cache.dir
+/root/lernning_file/cmake_lern/build/src/CMakeFiles/swap.dir
+/root/lernning_file/cmake_lern/build/src/CMakeFiles/edit_cache.dir

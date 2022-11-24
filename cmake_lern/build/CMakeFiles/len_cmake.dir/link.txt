@@ -1,0 +1,1 @@
+/usr/bin/c++   -o -Wall -pthread -g -lm -ldl  -DLINUX_OS -lstdc++fs -fpermissive -pipe -fPIC -ffunction-sections  -std=c++0x   CMakeFiles/len_cmake.dir/cmake_lern.cpp.o  -o bin/len_cmake lib/libswap.a 

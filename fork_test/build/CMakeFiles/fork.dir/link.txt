@@ -1,0 +1,1 @@
+/usr/bin/c++   -o -Wall -pthread -g -lm -ldl  -DLINUX_OS -lstdc++fs -fpermissive -pipe -fPIC -ffunction-sections  -std=c++0x   CMakeFiles/fork.dir/fork.cpp.o  -o fork 

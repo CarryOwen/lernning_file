@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/root/lernning_file/fork_test/fork.cpp
+stdio.h
+/root/lernning_file/fork_test/stdio.h
+unistd.h
+/root/lernning_file/fork_test/unistd.h
+
